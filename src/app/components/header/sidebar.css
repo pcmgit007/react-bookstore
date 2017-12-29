@@ -1,0 +1,14 @@
+.headerWidth{
+	width: 20%;
+	
+}
+.sidebarContainer{
+	       list-style: none;
+    padding-left: 0px;
+    border-right: 1px solid #ccc;
+    height: 500px;
+    font-size: 15px;
+}
+.sidebarContainer li{
+	margin-bottom: 10px;
+}
