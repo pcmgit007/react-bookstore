@@ -1,0 +1,40 @@
+.box1{
+	  background: antiquewhite;
+    width: 80%;
+    padding: 1px 10px 10px;
+    height: 200px;
+}
+.box2{
+	  background: #d7fafa;
+    width: 80%;
+    padding: 1px 10px 10px;
+    height: 200px;
+}
+.box3{
+	  background: #ded7fa;
+    width: 80%;
+    padding: 1px 10px 10px;
+    height: 200px;
+}
+.box4{
+	  background: #e0fad7;
+    width: 80%;
+    padding: 1px 10px 10px;
+    height: 200px;
+}
+.space{
+	margin-top: 20px;
+}
+.heading{
+	text-align: center;
+}
+.aboutUscontent{
+	padding:10px 10px;
+	margin-top: 20px;
+	border: 1px solid #ccc;
+    /* margin-top: 20px; */
+    border: 1px solid #ccc;
+    margin: 20px auto;
+    width: 80%;
+    box-shadow: 1px 1px 1px 1px #ccc;
+}

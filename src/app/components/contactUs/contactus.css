@@ -1,0 +1,16 @@
+.contactUscontainer{
+	width: 36%;
+    margin: auto;
+    margin-top: 23px;
+}
+.heading{
+	text-align: center;
+	margin-bottom: 20px;
+}
+.contactFooter{
+	margin-top: 20px;
+	text-align: center;
+}
+.contactFooter button:first-child{
+	margin-right: 20px;
+}

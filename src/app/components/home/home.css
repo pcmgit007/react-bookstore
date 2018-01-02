@@ -1,0 +1,11 @@
+.titleContainer{
+	display: table; height: 400px; overflow: hidden;
+}
+.text{
+	display: table-cell;
+	vertical-align: middle;
+}
+.imgContainer{
+	position: absolute;
+	top:100px;
+}
